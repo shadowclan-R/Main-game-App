@@ -1,0 +1,7 @@
+name: PROGRAMINGpackage
+version: 0.2.0
+environment:
+  sdk: "2.12.2"
+dependencies:
+  ninja_prime: ^2.0.0
+ 
